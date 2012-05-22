@@ -1,4 +1,4 @@
-This code sample uses the InfiniteGraph database to analyze data from disparate datasources. Three relational databases have been exported to CSV (located in the resources directory). The merged graph is accessed from Tom Sawyer for analysis. 
+This code sample uses the InfiniteGraph database to analyze data from disparate datasources. Three relational databases have been exported to CSV (located in the resources directory). The merged graph is accessed from Tom Sawyer for visualization. 
 
 Instructions:
 1. Install the free evaluation of InfiniteGraph
